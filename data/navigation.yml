@@ -1,0 +1,15 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: About Us
+  url: /presentations/
+
+- title: Our Portfolio
+  url: /cv/
+
+- title: Blog
+  url: /blog/
+
+- title: Get in Touch
+  url: /workshops/
