@@ -1,10 +1,10 @@
-# Daten See
+### Data data everywhere, not a bit to spare
 
-### Data data everywhere, not a drop to spare
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We, as a collective species, have dived into an ocean of
+data in this Information Age and slowly making a shift 
+towards an Experience Age. And this is being possible 
+through the ability of our species to identify patterns 
+in new perspectives and infer new knowledge. 
 
 ```markdown
 Syntax highlighted code block
