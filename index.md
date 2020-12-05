@@ -1,5 +1,3 @@
-navigation.yml
-
 ### Data data everywhere, not a bit to spare
 
 We, as a collective species, have dived into an ocean of
